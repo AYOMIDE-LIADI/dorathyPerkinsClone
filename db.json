@@ -1,0 +1,16 @@
+{
+  "employees": [
+    {
+      "id": "afd9",
+      "name": "jackson",
+      "email": "jackson@gmail.com",
+      "position": "CEO"
+    },
+    {
+      "id": "8dd2",
+      "name": "Dami",
+      "email": "liadi.ayomide@yahoo.com",
+      "position": "CEO"
+    }
+  ]
+}
